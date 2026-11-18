@@ -12,7 +12,7 @@ import controlador.Controlador;
 import java.util.ArrayList;
 import modelo.Carta;
 import modelo.Jugador;
-import vista.VistaBatalla;
+import vista.VistaBatalla; 
 
 public class Main {
 
